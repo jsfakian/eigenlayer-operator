@@ -2,6 +2,6 @@
   "name": "jsfakian",
   "website": "",
   "description": "Independent Ethereum validator and SSV operator running on dedicated hardware.",
-  "logo": "https://github.com/jsfakian/eigenlayer-operator/blob/main/960px-Ethereum_logo.svg.png",
+  "logo": "https://raw.githubusercontent.com/jsfakian/eigenlayer-operator/main/ethereum_logo.png",
   "twitter": ""
 }
